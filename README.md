@@ -6,7 +6,8 @@ Fullstack Developer, Freelance, Tech enthusiast.
 A Freelance Programmer with extensive experience in web development using modern frameworks. Possesses excellent analytical skills and is proficient in communicating effectively with clients. In addition to programming skills, Wisnu is also a skilled article writer and has previously worked for several digital media outlets. He has been actively writing since 2020 on various digital platforms.
 
 ## The project is currently being actively worked on:
-- 🚀 [Tomps Project Management](https://www.tomps.id/) - Tomps by Telkom Indonesia is a collaborative project management digital solution based on SAAS.
+- 🚀 [Tomps.id](https://www.tomps.id/) - Tomps by Telkom Indonesia is a collaborative project management digital solution based on SAAS.
+- 🤖 [Inputorder.com](https://inputorder.com/) - A digital platform for immersement in easy order input, order tracking, fund disbursement, ticketing, and delivery reporting.
 
 ## My Products 🔨
 
